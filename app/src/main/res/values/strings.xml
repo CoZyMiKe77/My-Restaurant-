@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Restaurant</string>
+    <string name="app_title">My Restaurant</string>
+    <string name="dash_pizza">Pizza</string>
+    <string name="dash_fries">Fries</string>
+    <string name="dash_bbq">BBQ</string>
+    <string name="dash_burger">Burger</string>
+</resources>
